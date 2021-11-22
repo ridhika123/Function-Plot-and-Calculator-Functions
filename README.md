@@ -1,4 +1,4 @@
-# Function-Plot-and-Calculator-Functions
+# Function Plot and Calculator Functions
 
 ## Prompt
 Imagine you've been transported back to 1990 and you have been called on to write part of the plot functionality for a soon-to-be popular line of graphing calculators. How would you solve the problem?
